@@ -1,4 +1,4 @@
-# PC翻墙 - 11月4日18.3M/S|免费V2ray节点/Shadowrocket节点/Clash节点/SSR节点/Singbox节点节点推荐，V2rayC梯子购买推荐  更新时间 2025-11-04 10:06:11
+# PC翻墙 - 11月10日19.5M/S|免费Clash节点/Singbox节点/SSR节点/Shadowrocket节点/V2ray节点节点推荐，V2rayC梯子购买推荐  更新时间 2025-11-10 09:08:32
 所有免费clash节点都爬取自网络，请勿用于非法用途 。节点地址：<a href="https://pcfanqiang.github.io" target="_blank">点击跳转</a>
 
 ## clash使用教程：
@@ -9,23 +9,23 @@
 
 ### 免费Clash节点订阅链接
 
-- https://pcfanqiang.github.io/uploads/2025/11/0-20251104.yaml
-- https://pcfanqiang.github.io/uploads/2025/11/1-20251104.yaml
-- https://pcfanqiang.github.io/uploads/2025/11/2-20251104.yaml
-- https://pcfanqiang.github.io/uploads/2025/11/3-20251104.yaml
-- https://pcfanqiang.github.io/uploads/2025/11/4-20251104.yaml
+- https://pcfanqiang.github.io/uploads/2025/11/0-20251110.yaml
+- https://pcfanqiang.github.io/uploads/2025/11/1-20251110.yaml
+- https://pcfanqiang.github.io/uploads/2025/11/2-20251110.yaml
+- https://pcfanqiang.github.io/uploads/2025/11/3-20251110.yaml
+- https://pcfanqiang.github.io/uploads/2025/11/4-20251110.yaml
 
 ### 免费V2ray节点订阅链接
 
-- https://pcfanqiang.github.io/uploads/2025/11/0-20251104.txt
-- https://pcfanqiang.github.io/uploads/2025/11/1-20251104.txt
-- https://pcfanqiang.github.io/uploads/2025/11/2-20251104.txt
-- https://pcfanqiang.github.io/uploads/2025/11/3-20251104.txt
-- https://pcfanqiang.github.io/uploads/2025/11/4-20251104.txt
+- https://pcfanqiang.github.io/uploads/2025/11/0-20251110.txt
+- https://pcfanqiang.github.io/uploads/2025/11/1-20251110.txt
+- https://pcfanqiang.github.io/uploads/2025/11/2-20251110.txt
+- https://pcfanqiang.github.io/uploads/2025/11/3-20251110.txt
+- https://pcfanqiang.github.io/uploads/2025/11/4-20251110.txt
 
 ### 免费Sing-box节点订阅链接
 
-- https://pcfanqiang.github.io/uploads/2025/11/20251104.json
+- https://pcfanqiang.github.io/uploads/2025/11/20251110.json
 
 ## 更多Clash节点订阅 ：
 
