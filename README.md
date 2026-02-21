@@ -1,4 +1,4 @@
-# PC翻墙 - 2月13日18M/S|免费SSR节点/Shadowrocket节点/Singbox节点/V2ray节点/Clash节点节点推荐，V2rayC梯子购买推荐  更新时间 2026-02-13 16:39:55
+# PC翻墙 - 2月21日21.7M/S|免费Clash节点/SSR节点/Shadowrocket节点/V2ray节点/Singbox节点节点推荐，V2rayC梯子购买推荐  更新时间 2026-02-21 08:56:13
 所有免费clash节点都爬取自网络，请勿用于非法用途 。节点地址：<a href="https://pcfanqiang.github.io" target="_blank">点击跳转</a>
 
 ## clash使用教程：
@@ -9,23 +9,23 @@
 
 ### 免费Clash节点订阅链接
 
-- https://pcfanqiang.github.io/uploads/2026/02/0-20260213.yaml
-- https://pcfanqiang.github.io/uploads/2026/02/1-20260213.yaml
-- https://pcfanqiang.github.io/uploads/2026/02/2-20260213.yaml
-- https://pcfanqiang.github.io/uploads/2026/02/3-20260213.yaml
-- https://pcfanqiang.github.io/uploads/2026/02/4-20260213.yaml
+- https://pcfanqiang.github.io/uploads/2026/02/0-20260221.yaml
+- https://pcfanqiang.github.io/uploads/2026/02/1-20260221.yaml
+- https://pcfanqiang.github.io/uploads/2026/02/2-20260221.yaml
+- https://pcfanqiang.github.io/uploads/2026/02/3-20260221.yaml
+- https://pcfanqiang.github.io/uploads/2026/02/4-20260221.yaml
 
 ### 免费V2ray节点订阅链接
 
-- https://pcfanqiang.github.io/uploads/2026/02/0-20260213.txt
-- https://pcfanqiang.github.io/uploads/2026/02/1-20260213.txt
-- https://pcfanqiang.github.io/uploads/2026/02/2-20260213.txt
-- https://pcfanqiang.github.io/uploads/2026/02/3-20260213.txt
-- https://pcfanqiang.github.io/uploads/2026/02/4-20260213.txt
+- https://pcfanqiang.github.io/uploads/2026/02/0-20260221.txt
+- https://pcfanqiang.github.io/uploads/2026/02/1-20260221.txt
+- https://pcfanqiang.github.io/uploads/2026/02/2-20260221.txt
+- https://pcfanqiang.github.io/uploads/2026/02/3-20260221.txt
+- https://pcfanqiang.github.io/uploads/2026/02/4-20260221.txt
 
 ### 免费Sing-box节点订阅链接
 
-- https://pcfanqiang.github.io/uploads/2026/02/20260213.json
+- https://pcfanqiang.github.io/uploads/2026/02/20260221.json
 
 ## 更多Clash节点订阅 ：
 
